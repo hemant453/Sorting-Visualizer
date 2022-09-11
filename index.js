@@ -157,10 +157,7 @@ async function quickSort(items, left, right) {
   return items;
 }
 
-// sort_btn.addEventListener("click", function () {
-//   let sorted_array = quickSort(unsorted_array, 0, numOfBars - 1);
-//   console.log(sorted_array);
-// });
+
 
 //write insertion sort function
 async function InsertionSort(array) {
